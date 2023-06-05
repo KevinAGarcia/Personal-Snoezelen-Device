@@ -1,46 +1,6 @@
 # Personal-Snoezelen-Device
 Personal Snoezelen Device for dementia patients
 
-
-<br/>
-<p align="center">
-  <a href="https://github.com/kevin343/ReadME-Generator">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
-
-  <h3 align="center">ReadME Generator</h3>
-
-  <p align="center">
-    An Awesome ReadME Generator To Jumpstart Your Projects!
-    <br/>
-    <br/>
-    <a href="https://github.com/kevin343/ReadME-Generator"><strong>Explore the docs »</strong></a>
-    <br/>
-    <br/>
-    <a href="https://github.com/kevin343/ReadME-Generator">View Demo</a>
-    .
-    <a href="https://github.com/kevin343/ReadME-Generator/issues">Report Bug</a>
-    .
-    <a href="https://github.com/kevin343/ReadME-Generator/issues">Request Feature</a>
-  </p>
-</p>
-
-![Downloads](https://img.shields.io/github/downloads/kevin343/ReadME-Generator/total) ![Contributors](https://img.shields.io/github/contributors/kevin343/ReadME-Generator?color=dark-green) ![Issues](https://img.shields.io/github/issues/kevin343/ReadME-Generator) ![License](https://img.shields.io/github/license/kevin343/ReadME-Generator) 
-
-## Table Of Contents
-
-* [About the Project](#about-the-project)
-* [Built With](#built-with)
-* [Getting Started](#getting-started)
-  * [Prerequisites](#prerequisites)
-  * [Installation](#installation)
-* [Usage](#usage)
-* [Roadmap](#roadmap)
-* [Contributing](#contributing)
-* [License](#license)
-* [Authors](#authors)
-* [Acknowledgements](#acknowledgements)
-
 ## About The Project
 
 ![Screen Shot](images/screenshot.png)
