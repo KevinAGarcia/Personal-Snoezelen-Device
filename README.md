@@ -1,21 +1,17 @@
 # Personal-Snoezelen-Device
 Personal Snoezelen Device for dementia patients
 
-## About The Project
+## About the project
 
 ![Screen Shot](images/screenshot.png)
 
-There are many great README templates available on GitHub, however, I didn't find one that really suit my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need.
+The idea for the project consists of applying the concept of Snoezelen chambers to treat dementia patients at home with a device.
 
-Here's why:
+A Snoezelen chamber is a therapeutic space designed to provide a controlled and calming environment for individuals with sensory processing difficulties or developmental disabilities. Equipped with various sensory elements such as specialized lighting, sounds, tactile objects, and visual displays, the Snoezelen chamber aims to stimulate the senses and promote relaxation, exploration, and sensory integration. It is commonly used in healthcare, educational, and care settings to reduce anxiety, improve mood, enhance sensory awareness, and support self-regulation.
 
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should element DRY principles to the rest of your life :smile:
+To bring the experience of a Snoezelen chamber to home was the main idea behihd the project. In order to accomplish the goal, a device was needed.
+The device was equipped with speakers, leds, and a vapor generator. This actuators will work randomly and will work to cautivate the attention of the patient.
 
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue.
-
-A list of commonly used resources that I find helpful are listed in the acknowledgements.
 
 ## Built With
 
