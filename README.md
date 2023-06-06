@@ -3,7 +3,8 @@ Personal Snoezelen Device for dementia patients
 
 ## About the project
 
-![Screen Shot](images/screenshot.png)
+![florero vids](https://github.com/kevin343/Personal-Snoezelen-Device/assets/113644566/ae060031-78ed-47ad-84b0-beb07af13bec)
+
 
 The idea for the project consists of applying the concept of Snoezelen chambers to treat dementia patients at home with a device.
 
