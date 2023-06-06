@@ -28,6 +28,7 @@ To initiate the actuators, there is an ultrasonic sensor when someone approaches
 
 All the acutators and sensors are connected to a Arduino One microcontroller.
 
+![florero vids 10](https://github.com/kevin343/Personal-Snoezelen-Device/assets/113644566/914fa0fa-7b76-4442-969d-164aa0dea770)
 
 ## Functioning 
 
