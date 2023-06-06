@@ -10,17 +10,21 @@ The idea for the project consists of applying the concept of Snoezelen chambers 
 A Snoezelen chamber is a therapeutic space designed to provide a controlled and calming environment for individuals with sensory processing difficulties or developmental disabilities. Equipped with various sensory elements such as specialized lighting, sounds, tactile objects, and visual displays, the Snoezelen chamber aims to stimulate the senses and promote relaxation, exploration, and sensory integration. It is commonly used in healthcare, educational, and care settings to reduce anxiety, improve mood, enhance sensory awareness, and support self-regulation.
 
 To bring the experience of a Snoezelen chamber to home was the main idea behihd the project. In order to accomplish the goal, a device was needed.
-The device was equipped with speakers, leds, and a vapor generator. This actuators will work randomly and will work to cautivate the attention of the patient.
+The device was equipped with speakers, leds, and a vapor generator. This actuators will work randomly to cautivate the attention of the patient.
 
 
-## Built With
+## Parts
 
-This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
+The device consists of a an array of RGB LEDS that can produce over 16 million hues of light. This can caught the atention of the patient keeping him safe from selfdamage or with any other objects in the room.
+It also has two speakers which reproduce music according to the patient needs to calm and relax. Finally there is a vapor generator which produces certain type of essences to create a unique calm atmosphere. 
 
-## Getting Started
+To initiate the actuators, there is an ultrasonic sensor when some one approaches the device.
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+All the acutators and sensors are connected to a Arduino One microcontroller that controls the functioning of the enteire device.
+
+## Functioning 
+
+The functioning begins with ultrasonic sensors that 
 
 ### Prerequisites
 
