@@ -18,13 +18,12 @@ The device was equipped with speakers, leds, and a vapor generator. This actuato
 The device consists of a an array of RGB LEDS that can produce over 16 million hues of light. This can caught the atention of the patient keeping him safe from selfdamage or with any other objects in the room.
 It also has two speakers which reproduce music according to the patient needs to calm and relax. Finally there is a vapor generator which produces certain type of essences to create a unique calm atmosphere. 
 
-To initiate the actuators, there is an ultrasonic sensor when some one approaches the device.
+To initiate the actuators, there is an ultrasonic sensor when someone approaches the device. 
 
-All the acutators and sensors are connected to a Arduino One microcontroller that controls the functioning of the enteire device.
-
+All the acutators and sensors are connected to a Arduino One microcontroller.
 ## Functioning 
 
-The functioning begins with ultrasonic sensors that 
+The functioning begins with ultrasonic sensor that once the patient its detected, randomly selects from the three components mentioned before.The RGB leds display unique colors in certain patterns simulateing the Snoezelezen chambers light.The speakers play calm sounds related to nature like, like wind,waterfall,forest and ocean.Finally the vapor generator located in a small pool filled with water and an essence is ready to produce fragrance with therapeutic properties.
 
 ### Prerequisites
 
