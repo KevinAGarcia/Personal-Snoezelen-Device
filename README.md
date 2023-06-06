@@ -13,6 +13,9 @@ A Snoezelen chamber is a therapeutic space designed to provide a controlled and 
 To bring the experience of a Snoezelen chamber to home was the main idea behihd the project. In order to accomplish the goal, a device was needed.
 The device was equipped with speakers, leds, and a vapor generator. This actuators will work randomly to cautivate the attention of the patient.
 
+Because the device its for home use, it was mandatory to find a case to disguise all its components, something that can easily past as something that can be found in anormal house, at any room.In many rooms what is very commom to find is a vase, which perfectly fits with the purpose of our project, because it can contain liquid which is necessary for the vapor generator and also can contain the speakers, the ultrasonic sensor and the RGB leds.
+
+![ezgif-3-434798e17f](https://github.com/kevin343/Personal-Snoezelen-Device/assets/113644566/ab7b99e1-cbc1-4d99-b05b-5ef6050f4fae)
 
 ## Parts
 
@@ -25,6 +28,7 @@ All the acutators and sensors are connected to a Arduino One microcontroller.
 ## Functioning 
 
 The functioning begins with ultrasonic sensor that once the patient its detected, randomly selects from the three components mentioned before.The RGB leds display unique colors in certain patterns simulateing the Snoezelezen chambers light.The speakers play calm sounds related to nature like, like wind,waterfall,forest and ocean.Finally the vapor generator located in a small pool filled with water and an essence is ready to produce fragrance with therapeutic properties.
+
 
 ### Prerequisites
 
