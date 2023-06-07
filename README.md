@@ -68,3 +68,7 @@ The functioning begins with ultrasonic sensor that once the patient its detected
 
 ![Capture10](https://github.com/kevin343/Personal-Snoezelen-Device/assets/113644566/9f125338-ecb7-410e-a635-301ed9e16e2e)
 
+
+https://github.com/kevin343/Personal-Snoezelen-Device/assets/113644566/db0bcc04-1b26-41e2-81d9-3519cb30aad6
+
+
