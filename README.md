@@ -12,7 +12,7 @@ A Snoezelen chamber is a therapeutic space designed to provide a controlled and 
 To bring the experience of a Snoezelen chamber to home was the main idea behihd the project. In order to accomplish the goal, a device was needed.
 The device was equipped with speakers, leds, and a vapor generator. This actuators will work randomly to cautivate the attention of the patient.
 
-Because the device its for home use, it was mandatory to find a case to disguise all its components, something that can easily past as something that can be found in anormal house, at any room.In many rooms what is very commom to find is a vase, which perfectly fits with the purpose of our project, because it can contain liquid which is necessary for the vapor generator and also can contain the speakers, the ultrasonic sensor and the RGB leds..
+Because the device its for home use, it was mandatory to find a case to disguise all its components, something that can easily past as something that can be found in anormal house, at any room.In many rooms what is very commom to find is a vase, which perfectly fits with the purpose of our project, because it can contain liquid which is necessary for the vapor generator and also can contain the speakers, the ultrasonic sensor and the RGB leds.
 
 https://github.com/kevin343/Personal-Snoezelen-Device/assets/113644566/288885db-be2c-419c-b9b4-cbccb0a7c5fc
 
