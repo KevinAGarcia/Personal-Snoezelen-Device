@@ -49,7 +49,8 @@ The first prototype was released:
 
 ## Design and making process of personal snoezelen.
 
-Visual effect: The RGB LEDs positionated on top of the vase, were in an angle that can reflect several colors in a room, and they are one of the first thing that can caught the attention of anyone. 
+Visual effect: The RGB LEDs positionated on top of the vase, were in an angle that can reflect several colors in a room, and 
+they are one of the first thing that can caught the attention of anyone. 
 These LEDs  can stimulate the sense of visuality and make patients more calm with a combination that best fits to the patient.
 ![Capture6](https://github.com/kevin343/Personal-Snoezelen-Device/assets/113644566/df5c13fc-ce51-4a9e-868c-1c282ebd79db)
 
