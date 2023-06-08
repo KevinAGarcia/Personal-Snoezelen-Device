@@ -49,20 +49,24 @@ The first prototype was released:
 
 ## Design and making process of personal snoezelen.
 
-Visual effect: We used projector mood light to give visual effects effectively. One is a blue projector that fills the room with blue wave light. Another one is a film projector which can change the colors and the shapes. These two light projectors can stimulate the sense of visuality and make patients more calm.
+Visual effect: The RGB LEDs positionated on top of the vase, were in an angle that can reflect several colors in a room, and they are one of the first thing that can caught the attention of anyone. 
+These LEDs  can stimulate the sense of visuality and make patients more calm with a combination that best fits to the patient.
 ![Capture6](https://github.com/kevin343/Personal-Snoezelen-Device/assets/113644566/df5c13fc-ce51-4a9e-868c-1c282ebd79db)
 
-Sound effect: We used blue tooth speaker to play snoezelen music. We considered the playlist of music. Mostly, the snoezelen music was European therapy music. So, for Korean patients, we knew that traditional folk song-based music is more effective for music therapy.
+Sound effect:  Two speakers were used to play Snoezelen music. Mostly, the Snoezelen music was European therapy music. 
+So, for Korean patients, traditional folk song-based music is more effective for music therapy.
 ![Capture7](https://github.com/kevin343/Personal-Snoezelen-Device/assets/113644566/29b555ff-d882-4e54-b43f-1954c5b4d42e)
 
-Smell effect: We used an aroma oil diffuser to make smell effects. We tried to contain various kinds of smell for manipulation. We designed a multi-diffuser for solving the problem.
+Smell effect: A vapor generator weas used to make smell effects. Various kinds of smell can be applied depending the patients needs. 
+A multi difusser is set to be as afuture update for the project.
 ![Capture8](https://github.com/kevin343/Personal-Snoezelen-Device/assets/113644566/25cdf862-b03b-4451-ac12-e21d563e1825)
 
-Tactile sense effect: we used a wind processor and humidifier to make tactile stimulation. If the patients go closer with their hands to the device, the device recognizes their distance which can make appropriate responses like blowing wind and making moisture effects. We 
-used an ultrasonic sensor for the detection. 
 ![Capture9](https://github.com/kevin343/Personal-Snoezelen-Device/assets/113644566/1a2ffccd-c92c-4a09-b0bb-0a862e308623)
 
-The functioning begins with an ultrasonic sensor that once the patient its detected, randomly selects from the three components mentioned before. The RGB LEDs display unique colors in certain patterns simulating the Snoezelezen chamber's light. The speakers play calm sounds related to nature, like wind, waterfall, forest, and ocean. Finally the vapor generator located in a small pool filled with water and essence is ready to produce fragrance with therapeutic properties.
+The functioning begins with an ultrasonic sensor that once the patient its detected, randomly selects from the three components mentioned before.
+The RGB LEDs display unique colors in certain patterns simulating the Snoezelezen chamber's light. 
+The speakers play calm sounds related to nature, like wind, waterfall, forest, and ocean. 
+Finally the vapor generator located in a small pool filled with water and essence is ready to produce fragrance with therapeutic properties.
 
 
 
@@ -79,6 +83,7 @@ The results were very promising, all of them were attracted especially by the va
 
 ![Capture10](https://github.com/kevin343/Personal-Snoezelen-Device/assets/113644566/9f125338-ecb7-410e-a635-301ed9e16e2e)
 
+Then, all the actuators and the ultrasonic sensor were located inside the vase, which can be shown in the following animation:
 
 https://github.com/kevin343/Personal-Snoezelen-Device/assets/113644566/db0bcc04-1b26-41e2-81d9-3519cb30aad6
 
