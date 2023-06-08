@@ -52,14 +52,17 @@ The first prototype was released:
 Visual effect: The RGB LEDs positionated on top of the vase, were in an angle that can reflect several colors in a room, and 
 they are one of the first thing that can caught the attention of anyone. 
 These LEDs  can stimulate the sense of visuality and make patients more calm with a combination that best fits to the patient.
+
 ![Capture6](https://github.com/kevin343/Personal-Snoezelen-Device/assets/113644566/df5c13fc-ce51-4a9e-868c-1c282ebd79db)
 
 Sound effect:  Two speakers were used to play Snoezelen music. Mostly, the Snoezelen music was European therapy music. 
 So, for Korean patients, traditional folk song-based music is more effective for music therapy.
+
 ![Capture7](https://github.com/kevin343/Personal-Snoezelen-Device/assets/113644566/29b555ff-d882-4e54-b43f-1954c5b4d42e)
 
 Smell effect: A vapor generator weas used to make smell effects. Various kinds of smell can be applied depending the patients needs. 
 A multi difusser is set to be as afuture update for the project.
+
 ![Capture8](https://github.com/kevin343/Personal-Snoezelen-Device/assets/113644566/25cdf862-b03b-4451-ac12-e21d563e1825)
 
 ![Capture9](https://github.com/kevin343/Personal-Snoezelen-Device/assets/113644566/1a2ffccd-c92c-4a09-b0bb-0a862e308623)
