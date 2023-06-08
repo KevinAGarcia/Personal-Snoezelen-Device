@@ -49,9 +49,9 @@ The first prototype was released:
 
 ## Design and making process of personal snoezelen.
 
-Visual effect: The RGB LEDs positionated on top of the vase, were in an angle that can reflect several colors in a room, and 
-they are one of the first thing that can caught the attention of anyone. 
-These LEDs  can stimulate the sense of visuality and make patients more calm with a combination that best fits to the patient.
+Visual effect: The RGB LEDs positioned on top of the vase, were at an angle that can reflect several colors in a room, and 
+they are one of the first things that can catch the attention of anyone. 
+These LEDs can stimulate the sense of visuality and make patients more calm with a combination that best fits the patient.
 
 ![Capture6](https://github.com/kevin343/Personal-Snoezelen-Device/assets/113644566/df5c13fc-ce51-4a9e-868c-1c282ebd79db)
 
@@ -60,17 +60,17 @@ So, for Korean patients, traditional folk song-based music is more effective for
 
 ![Capture7](https://github.com/kevin343/Personal-Snoezelen-Device/assets/113644566/29b555ff-d882-4e54-b43f-1954c5b4d42e)
 
-Smell effect: A vapor generator weas used to make smell effects. Various kinds of smell can be applied depending the patients needs. 
-A multi difusser is set to be as afuture update for the project.
+Smell effect: A vapor generator was used to make smell effects. Various kinds of smells can be applied depending on the patient's needs. 
+A multi-diffuser is set to be a future update for the project.
 
 ![Capture8](https://github.com/kevin343/Personal-Snoezelen-Device/assets/113644566/25cdf862-b03b-4451-ac12-e21d563e1825)
 
 ![Capture9](https://github.com/kevin343/Personal-Snoezelen-Device/assets/113644566/1a2ffccd-c92c-4a09-b0bb-0a862e308623)
 
-The functioning begins with an ultrasonic sensor that once the patient its detected, randomly selects from the three components mentioned before.
+The functioning begins with an ultrasonic sensor that once the patient is detected, randomly selects from the three components mentioned before.
 The RGB LEDs display unique colors in certain patterns simulating the Snoezelezen chamber's light. 
 The speakers play calm sounds related to nature, like wind, waterfall, forest, and ocean. 
-Finally the vapor generator located in a small pool filled with water and essence is ready to produce fragrance with therapeutic properties.
+Finally, the vapor generator located in a small pool filled with water and essence is ready to produce fragrance with therapeutic properties.
 
 
 
@@ -78,17 +78,23 @@ Finally the vapor generator located in a small pool filled with water and essenc
 ### Presenting the device first to patients
 
 The presentation was with the prototype to the elders to see if the device caught their attention and if they were able to stay near the vase for a long time.
-The results were very promising, all of them were attracted especially by the vapor that combined with the other features, kept them reinforcing their senses which is the main gold of the project. Continious exposure to the device can delay the advance of dementia patients.
+The results were very promising, all of them were attracted especially by the vapor that combined with the other features, kept them reinforcing their senses which is the main gold of the project. Continuous exposure to the device can delay the advance of dementia patients.
 
 
 ![89257500_224959312009289_4832900201637231127_n](https://github.com/kevin343/Personal-Snoezelen-Device/assets/113644566/9187f70c-ced9-4722-b4c8-46d491ecba92)
 
 ![Capture5](https://github.com/kevin343/Personal-Snoezelen-Device/assets/113644566/be1c2bfc-bf39-4565-ae11-340a6f04ace2)
 
+
 ![Capture10](https://github.com/kevin343/Personal-Snoezelen-Device/assets/113644566/9f125338-ecb7-410e-a635-301ed9e16e2e)
 
 Then, all the actuators and the ultrasonic sensor were located inside the vase, which can be shown in the following animation:
 
 https://github.com/kevin343/Personal-Snoezelen-Device/assets/113644566/db0bcc04-1b26-41e2-81d9-3519cb30aad6
+
+## Future upgrades
+
+For future upgrades, a multiple aroma diffuser would be added. Also, the vase is going to be controlled with an app to enhance and supervise the patient. 
+Finally, the Arduino UNO is going to be replaced by a more modern microcontroller that has wifi incorporated and a USB type-C input.
 
 
