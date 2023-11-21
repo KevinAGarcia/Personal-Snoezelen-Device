@@ -16,7 +16,103 @@ Because the device is for home use, it was mandatory to find a case to disguise 
 
 https://github.com/kevin343/Personal-Snoezelen-Device/assets/113644566/288885db-be2c-419c-b9b4-cbccb0a7c5fc
 
+## The Code Explanation 
 
+Libraries
+
+Adafruit_NeoPixel.h: This library is used to control NeoPixel LED strips.
+Servo.h: This library is used to control servo motors.
+
+NeoPixel Setup
+
+#define NEOPIXEL_PIN 6
+#define NEOPIXEL_NUMPIXELS 8
+
+Adafruit_NeoPixel strip = Adafruit_NeoPixel(NEOPIXEL_NUMPIXELS, NEOPIXEL_PIN, NEO_GRB + NEO_KHZ800);
+Here, the NeoPixel LED strip is set up. It specifies that the strip is connected to pin 6, and there are 8 pixels in the strip. The Adafruit_NeoPixel object strip is created with these parameters.
+
+Pin Definitions
+
+Pin numbers are defined for various components:
+
+ultrasonicTrigPin: Trigger pin for the ultrasonic sensor.
+ultrasonicEchoPin: Echo pin for the ultrasonic sensor.
+buttonPin: Pin for the button.
+soundPin: Pin for sound output.
+vaporPin: Pin for vapor output.
+
+Enumerated Vase States
+
+This enum defines the possible states of the vase. It includes IDLE, DETECTING, BUTTON_PRESSED, and EMITTING states.
+
+Variable Declarations
+
+
+Certainly! Let's break down the code into parts and explain each section:
+
+Libraries
+cpp
+Copy code
+#include <Adafruit_NeoPixel.h>
+#include <Servo.h>
+These lines include two libraries:
+
+Adafruit_NeoPixel.h: This library is used to control NeoPixel LED strips.
+Servo.h: This library is used to control servo motors.
+NeoPixel Setup
+cpp
+Copy code
+#define NEOPIXEL_PIN 6
+#define NEOPIXEL_NUMPIXELS 8
+
+Adafruit_NeoPixel strip = Adafruit_NeoPixel(NEOPIXEL_NUMPIXELS, NEOPIXEL_PIN, NEO_GRB + NEO_KHZ800);
+Here, the NeoPixel LED strip is set up. It specifies that the strip is connected to pin 6, and there are 8 pixels in the strip. The Adafruit_NeoPixel object strip is created with these parameters.
+
+Servo Setup
+cpp
+Copy code
+Servo servo;
+This line creates a Servo object named servo that will be used to control a servo motor.
+
+Pin Definitions
+cpp
+Copy code
+const int ultrasonicTrigPin = 8;
+const int ultrasonicEchoPin = 7;
+const int buttonPin = 2;
+const int soundPin = 3;
+const int vaporPin = 4;
+These lines define the pin numbers for various components:
+
+ultrasonicTrigPin: Trigger pin for the ultrasonic sensor.
+ultrasonicEchoPin: Echo pin for the ultrasonic sensor.
+buttonPin: Pin for the button.
+soundPin: Pin for sound output.
+vaporPin: Pin for vapor output.
+
+Enumerated Vase States
+
+This enum defines the possible states of the vase. It includes IDLE, DETECTING, BUTTON_PRESSED, and EMITTING states.
+
+Variable Declarations
+
+These lines declare variables:
+
+currentState: Stores the current state of the vase.
+stateStartTime: Records the time when the current state started.
+buttonPressed: Indicates whether the button is currently pressed.
+
+Setup Function
+
+The setup function is called once when the Arduino starts. It initializes serial communication, sets pin modes for various components, attaches the servo to pin 9, and initializes the NeoPixel strip.
+
+Loop Function
+
+The loop function is called repeatedly. Inside it, there is a switch statement that handles the state machine logic. It checks the current state and performs actions accordingly.
+
+State Machine Logic
+
+This part of the code contains the state machine logic. It checks the current state and performs specific actions based on that state.
 
 ## Parts
 
